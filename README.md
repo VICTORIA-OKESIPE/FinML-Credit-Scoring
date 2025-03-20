@@ -9,3 +9,6 @@ Steps involved:
 - Brainstorming
 - Data Acquisition
 - Data Preprocessing
+- ML Pipelines
+- Discussion of Results
+- Dissemination of Results
