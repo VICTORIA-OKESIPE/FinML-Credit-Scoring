@@ -7,3 +7,4 @@ Steps involved:
 
 - Descriptive Inference and Stylized Facts
 - Brainstorming
+- Data Acquisition
