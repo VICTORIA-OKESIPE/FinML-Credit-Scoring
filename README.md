@@ -5,5 +5,5 @@ Steps involved:
 * Data Quality Check (done through inspection, checking duplicates, cleaning)
 * Exploratory Data Analysis
 
-- Descriptive Inference and Sylized
+- Descriptive Inference and Stylized
 - Brainstorming
