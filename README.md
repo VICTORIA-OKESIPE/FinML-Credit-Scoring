@@ -1,4 +1,3 @@
-
 # Credit Scoring (== rating a consumer's creditworthiness)
 Steps involved:
 * Importing Necessay Libraries
