@@ -1,4 +1,3 @@
-
 # Credit Scoring (== rating a consumer's creditworthiness)
 ## Steps involved:
 * Importing Necessay Libraries
@@ -12,3 +11,4 @@
 * ML Pipelines
 * Discussion of Results
 * Dissemination of Results
+
